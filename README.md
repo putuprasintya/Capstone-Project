@@ -34,7 +34,7 @@ Dataset yang digunakan dalam proyek ini mencakup informasi demografis pelanggan,
 
 1. Clone repository ini:
    
-   git clone https://github.com/username/nama-repo.git
+   git clone https://github.com/putuprasintya/Capstone-Project.git
    
 2.  Instal dependencies yang diperlukan:
   
