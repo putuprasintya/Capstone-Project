@@ -1,4 +1,5 @@
 # Capstone Project Module 2
+Dataset : Supermarket Customers 
 
 Proyek ini bertujuan untuk menganalisis data pelanggan dari sebuah supermarket. Dengan menggunakan analisis deskriptif dan eksplorasi data, proyek ini menyajikan informasi tentang preferensi pelanggan, pola belanja berdasarkan segmen pendapatan, dan rekomendasi strategi bisnis.
 
